@@ -1,2 +1,2 @@
 # INEA_processamento
-Limpeza e processamento dos dados de poluição e variáveis meteorológicas do INEA
+Scripts em R para limpeza e processamento dos dados de poluição e variáveis meteorológicas do INEA
